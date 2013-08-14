@@ -1,0 +1,4 @@
+quines
+======
+
+Collection of quines
